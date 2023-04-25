@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseWinFormsConnector", "DatabaseWinFormsConnector\DatabaseWinFormsConnector.csproj", "{3CE7B5D3-BA70-4612-8753-9A88D5DD2DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CE7B5D3-BA70-4612-8753-9A88D5DD2DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE7B5D3-BA70-4612-8753-9A88D5DD2DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE7B5D3-BA70-4612-8753-9A88D5DD2DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE7B5D3-BA70-4612-8753-9A88D5DD2DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6218413-E1C8-4D98-961F-116D446544DB}
+	EndGlobalSection
+EndGlobal
